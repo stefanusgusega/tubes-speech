@@ -141,7 +141,7 @@ ADAD    aa d aa d
 ADAGIO    aa d aa g ih ao
 ADAGIUM    aa d aa g ih uw m
 ADAKALA    aa d aa k aa l aa
-ADAKALANYA    aa d aa k aa l aa n y aa
+ADAKALANYA    aa d aa k aa l aa ny aa
 ADAKAN    aa d aa k aa n
 ADAKS    aa d aa k s
 ADAKTIL    aa d aa k t ih l
@@ -1392,17 +1392,17 @@ ANURIA    aa n uw r ih aa
 ANUS    aa n uw s
 ANUSWARA    aa n uw s w aa r aa
 ANUT    aa n uw t
-ANYAK    aa n y aa k
-ANYAM    aa n y aa m
-ANYANG    aa n y aa ng
-ANYANG-ANYANG    aa n y aa ng aa n y aa ng
-ANYAR    aa n y aa r
-ANYEL    aa n y ## l
-ANYELIR    aa n y ## l ih r
-ANYEP    aa n y ## p
-ANYES    aa n y ## s
-ANYIK    aa n y ih k
-ANYIR    aa n y ih r
+ANYAK    aa ny aa k
+ANYAM    aa ny aa m
+ANYANG    aa ny aa ng
+ANYANG-ANYANG    aa ny aa ng aa ny aa ng
+ANYAR    aa ny aa r
+ANYEL    aa ny ## l
+ANYELIR    aa ny ## l ih r
+ANYEP    aa ny ## p
+ANYES    aa ny ## s
+ANYIK    aa ny ih k
+ANYIR    aa ny ih r
 AORTA    aa ao r t aa
 APA    aa p aa
 APABILA    aa p aa b ih l aa
@@ -1719,7 +1719,7 @@ ASIMUS    aa s ih m uw s
 ASIN    aa s ih n
 ASINDETON    aa s ih n d ## t ao n
 ASING    aa s ih ng
-ASINYOR    aa s ih n y ao r
+ASINYOR    aa s ih ny ao r
 ASIRI    aa s ih r ih
 ASISTEN    aa s ih s t ## n
 ASISTENSI    aa s ih s t ## n s ih
@@ -2144,7 +2144,7 @@ BAHTERA    b aa hh t ## r aa
 BAHU    b aa hh uw
 BAHUKU    b aa hh uw k uw
 BAHWA    b aa hh w aa
-BAHWASANYA    b aa hh w aa s aa n y aa
+BAHWASANYA    b aa hh w aa s aa ny aa
 BAIAT    b ## aa t
 BAID    b ## d
 BAIDURI    b ## d uw r ih
@@ -2396,11 +2396,11 @@ BANTU    b aa n t uw
 BANTUN    b aa n t uw n
 BANTUT    b aa n t uw t
 BANUA    b aa n uw aa
-BANYAK    b aa n y aa k
-BANYO    b aa n y ao
-BANYOL    b aa n y ao l
-BANYU    b aa n y uw
-BANYUN    b aa n y uw n
+BANYAK    b aa ny aa k
+BANYO    b aa ny ao
+BANYOL    b aa ny ao l
+BANYU    b aa ny uw
+BANYUN    b aa ny uw n
 BANZAI    b aa n z ##
 BAO    b aa ao
 BAP    b aa p
@@ -3026,10 +3026,10 @@ BENUARON    b ## n uw aa r ao n
 BENULUNG    b ## n uw l uw ng
 BENUM    b ## n uw m
 BENUR    b ## n uw r
-BENYAI    b ## n y ##
-BENYEK    b ## n y ## k
-BENYOH    b ## n y ao hh
-BENYOT    b ## n y ao t
+BENYAI    b ## ny ##
+BENYEK    b ## ny ## k
+BENYOH    b ## ny ao hh
+BENYOT    b ## ny ao t
 BENZEDRIN    b ## n z ## d r ih n
 BENZENA    b ## n z ## n aa
 BENZIL    b ## n z ih l
@@ -3668,7 +3668,7 @@ BONTO    b ao n t ao
 BONTOK    b ao n t ao k
 BONTOT    b ao n t ao t
 BONUS    b ao n uw s
-BONYOK    b ao n y ao k
+BONYOK    b ao ny ao k
 BOPENG    b ao p ## ng
 BOPLANG    b ao p l aa ng
 BOPOK    b ao p ao k
@@ -3976,7 +3976,7 @@ BUNTUNG    b uw n t uw ng
 BUNTUT    b uw n t uw t
 BUNUH    b uw n uw hh
 BUNUT    b uw n uw t
-BUNYI    b uw n y ih
+BUNYI    b uw ny ih
 BUPALA    b uw p aa l aa
 BUPATI    b uw p aa t ih
 BUPET    b uw p ## t
@@ -5137,7 +5137,7 @@ DANSANAK    d aa n s aa n aa k
 DANTA    d aa n t aa
 DANUH    d aa n uw hh
 DANUR    d aa n uw r
-DANYANG    d aa n y aa ng
+DANYANG    d aa ny aa ng
 DAP    d aa p
 DAPA    d aa p aa
 DAPAR    d aa p aa r
@@ -5533,9 +5533,9 @@ DENTUNG    d ## n t uw ng
 DENTUR    d ## n t uw r
 DENUDASI    d ## n uw d aa s ih
 DENUKLIRISASI    d ## n uw k l ih r ih s aa s ih
-DENYAR    d ## n y aa r
-DENYIT    d ## n y ih t
-DENYUT    d ## n y uw t
+DENYAR    d ## ny aa r
+DENYIT    d ## ny ih t
+DENYUT    d ## ny uw t
 DEODORAN    d ## ao d ao r aa n
 DEOKNUMISASI    d ## ao k n uw m ih s aa s ih
 DEONTOLOGI    d ## ao n t ao l ao g ih
@@ -6866,7 +6866,7 @@ EMPUAN    ## m p uw aa n
 EMPUK    ## m p uw k
 EMPUL    ## m p uw l
 EMPULUR    ## m p uw l uw r
-EMPUNYA    ## m p uw n y aa
+EMPUNYA    ## m p uw ny aa
 EMRAT    ## m r aa t
 EMULASI    ## m uw l aa s ih
 EMULATOR    ## m uw l aa t ao r
@@ -7033,8 +7033,8 @@ ENUKLEASI    ## n uw k l ## aa s ih
 ENUMERASI    ## n uw m ## r aa s ih
 ENURESIS    ## n uw r ## s ih s
 ENVOI    ## n f ##
-ENYAH    ## n y aa hh
-ENYAK    ## n y aa k
+ENYAH    ## ny aa hh
+ENYAK    ## ny aa k
 ENZIM    ## n z ih m
 ENZIMOLISIS    ## n z ih m ao l ih s ih s
 ENZIMOLOGI    ## n z ih m ao l ao g ih
@@ -7993,11 +7993,11 @@ GANTING    g aa n t ih ng
 GANTOL    g aa n t ao l
 GANTOLE    g aa n t ao l ##
 GANTUNG    g aa n t uw ng
-GANYAH    g aa n y aa hh
-GANYANG    g aa n y aa ng
-GANYAR    g aa n y aa r
-GANYONG    g aa n y ao ng
-GANYUT    g aa n y uw t
+GANYAH    g aa ny aa hh
+GANYANG    g aa ny aa ng
+GANYAR    g aa ny aa r
+GANYONG    g aa ny ao ng
+GANYUT    g aa ny uw t
 GAOK    g aa ao k
 GAP    g aa p
 GAPAH    g aa p aa hh
@@ -8257,7 +8257,7 @@ GELENG    g ## l ## ng
 GELENGGANG    g ## l ## ng g aa ng
 GELENTANG    g ## l ## n t aa ng
 GELENTING    g ## l ## n t ih ng
-GELENYAR    g ## l ## n y aa r
+GELENYAR    g ## l ## ny aa r
 GELEPAI    g ## l ## p ##
 GELEPAR    g ## l ## p aa r
 GELEPEK    g ## l ## p ## k
@@ -8524,7 +8524,7 @@ GENTRIFIKASI    g ## n t r ih f ih k aa s ih
 GENTUR    g ## n t uw r
 GENTUS    g ## n t uw s
 GENUS    g ## n uw s
-GENYOT    g ## n y ao t
+GENYOT    g ## ny ao t
 GEOBOTANI    g ## ao b ao t aa n ih
 GEODESI    g ## ao d ## s ih
 GEOFISIKA    g ## ao f ih s ih k aa
@@ -8589,7 +8589,7 @@ GERANGGANG    g ## r aa ng g aa ng
 GERANIUM    g ## r aa n ih uw m
 GERANTAK    g ## r aa n t aa k
 GERANTANG    g ## r aa n t aa ng
-GERANYAM    g ## r aa n y aa m
+GERANYAM    g ## r aa ny aa m
 GERAPAI    g ## r aa p ##
 GERAPU    g ## r aa p uw
 GERAT    g ## r aa t
@@ -8632,12 +8632,12 @@ GERENIK    g ## r ## n ih k
 GERENJENG    g ## r ## n jh ## ng
 GERENJET    g ## r ## n jh ## t
 GERENTANG    g ## r ## n t aa ng
-GERENYAU    g ## r ## n y ##
-GERENYENG    g ## r ## n y ## ng
-GERENYET    g ## r ## n y ## t
-GERENYING    g ## r ## n y ih ng
-GERENYIT    g ## r ## n y ih t
-GERENYOT    g ## r ## n y ao t
+GERENYAU    g ## r ## ny ##
+GERENYENG    g ## r ## ny ## ng
+GERENYET    g ## r ## ny ## t
+GERENYING    g ## r ## ny ih ng
+GERENYIT    g ## r ## ny ih t
+GERENYOT    g ## r ## ny ao t
 GEREPE    g ## r ## p ##
 GEREPEK    g ## r ## p ## k
 GEREPES    g ## r ## p ## s
@@ -8681,7 +8681,7 @@ GERINGSING    g ## r ih ng s ih ng
 GERINJAL    g ## r ih n jh aa l
 GERINJAM    g ## r ih n jh aa m
 GERINTING    g ## r ih n t ih ng
-GERINYAU    g ## r ih n y ##
+GERINYAU    g ## r ih ny ##
 GERIP    g ## r ih p
 GERIPIR    g ## r ih p ih r
 GERIPIS    g ## r ih p ih s
@@ -8718,7 +8718,7 @@ GERONIUM    g ## r ao n ih uw m
 GERONTOKRASI    g ## r ao n t ao k r aa s ih
 GERONTOL    g ## r ao n t ao l
 GERONTOLOGI    g ## r ao n t ao l ao g ih
-GERONYOT    g ## r ao n y ao t
+GERONYOT    g ## r ao ny ao t
 GEROPES    g ## r ao p ## s
 GEROPYOK    g ## r ao p y ao k
 GEROS    g ## r ao s
@@ -8746,7 +8746,7 @@ GERUNDANG    g ## r uw n d aa ng
 GERUNDEL    g ## r uw n d ## l
 GERUNG    g ## r uw ng
 GERUNGGUNG    g ## r uw ng g uw ng
-GERUNYAM    g ## r uw n y aa m
+GERUNYAM    g ## r uw ny aa m
 GERUP    g ## r uw p
 GERUPIS    g ## r uw p ih s
 GERUPUK    g ## r uw p uw k
@@ -9000,10 +9000,10 @@ GONRANG    g ao n r aa ng
 GONTAGANTI    g ao n t aa g aa n t ih
 GONTAI    g ao n t ##
 GONTOK    g ao n t ao k
-GONYAK    g ao n y aa k
-GONYEH    g ao n y ## hh
-GONYEL    g ao n y ## l
-GONYOH    g ao n y ao hh
+GONYAK    g ao ny aa k
+GONYEH    g ao ny ## hh
+GONYEL    g ao ny ## l
+GONYOH    g ao ny ao hh
 GOPEK    g ao p ## k
 GOPOH    g ao p ao hh
 GORAP    g ao r aa p
@@ -9198,7 +9198,7 @@ GUNTING    g uw n t ih ng
 GUNTUNG    g uw n t uw ng
 GUNTUR    g uw n t uw r
 GUNUNG    g uw n uw ng
-GUNYAM    g uw n y aa m
+GUNYAM    g uw ny aa m
 GUP    g uw p
 GURAB    g uw r aa b
 GURAH    g uw r aa hh
@@ -9387,8 +9387,8 @@ HANTAP    hh aa n t aa p
 HANTAR    hh aa n t aa r
 HANTIR    hh aa n t ih r
 HANTU    hh aa n t uw
-HANYA    hh aa n y aa
-HANYUT    hh aa n y uw t
+HANYA    hh aa ny aa
+HANYUT    hh aa ny uw t
 HAP    hh aa p
 HAPETAN    hh aa p ## t aa n
 HAPLOGRAFI    hh aa p l ao g r aa f ih
@@ -10477,8 +10477,8 @@ INSIDENTAL    ih n s ih d ## n t aa l
 INSINERATOR    ih n s ih n ## r aa t ao r
 INSINUASI    ih n s ih n uw aa s ih
 INSINUATIF    ih n s ih n uw aa t ih f
-INSINYE    ih n s ih n y ##
-INSINYUR    ih n s ih n y uw r
+INSINYE    ih n s ih ny ##
+INSINYUR    ih n s ih ny uw r
 INSKRIPSI    ih n s k r ih p s ih
 INSLAN    ih n s l aa n
 INSOLVEN    ih n s ao l f ## n
@@ -10657,7 +10657,7 @@ INVESTOR    ih n f ## s t ao r
 INVITASI    ih n f ih t aa s ih
 INVOIS    ih n f ## s
 INVOLUSI    ih n f ao l uw s ih
-INYIK    ih n y ih k
+INYIK    ih ny ih k
 INZAR    ih n z aa r
 INZIAJ    ih n z ih aa jh
 IODIN    ih ao d ih n
@@ -11964,7 +11964,7 @@ KAMPA    k aa m p aa
 KAMPAI    k aa m p ##
 KAMPALOGI    k aa m p aa l ao g ih
 KAMPANOLOGI    k aa m p aa n ao l ao g ih
-KAMPANYE    k aa m p aa n y ##
+KAMPANYE    k aa m p aa ny ##
 KAMPAS    k aa m p aa s
 KAMPEMEN    k aa m p ## m ## n
 KAMPER    k aa m p ## r
@@ -12069,8 +12069,8 @@ KANTUK    k aa n t uw k
 KANTUNG    k aa n t uw ng
 KANUN    k aa n uw n
 KANVAS    k aa n f aa s
-KANYA    k aa n y aa
-KANYON    k aa n y ao n
+KANYA    k aa ny aa
+KANYON    k aa ny ao n
 KAOK    k aa ao k
 KAOLIN    k aa ao l ih n
 KAON    k aa ao n
@@ -12086,7 +12086,7 @@ KAPAL    k aa p aa l
 KAPAN    k aa p aa n
 KAPANG    k aa p aa ng
 KAPAR    k aa p aa r
-KAPARINYO    k aa p aa r ih n y ao
+KAPARINYO    k aa p aa r ih ny ao
 KAPAS    k aa p aa s
 KAPASITANS    k aa p aa s ih t aa n s
 KAPASITAS    k aa p aa s ih t aa s
@@ -12328,7 +12328,7 @@ KASREGISTER    k aa s r ## g ih s t ## r
 KASSIA    k aa s s ih aa
 KASTA    k aa s t aa
 KASTAL    k aa s t aa l
-KASTANYET    k aa s t aa n y ## t
+KASTANYET    k aa s t aa ny ## t
 KASTEL    k aa s t ## l
 KASTI    k aa s t ih
 KASTRASI    k aa s t r aa s ih
@@ -12760,7 +12760,7 @@ KELENTIT    k ## l ## n t ih t
 KELENTONG    k ## l ## n t ao ng
 KELENTUNG    k ## l ## n t uw ng
 KELENUNG    k ## l ## n uw ng
-KELENYIT    k ## l ## n y ih t
+KELENYIT    k ## l ## ny ih t
 KELEP    k ## l ## p
 KELEPAI    k ## l ## p ##
 KELEPAK    k ## l ## p aa k
@@ -12863,7 +12863,7 @@ KELONGSONG    k ## l ao ng s ao ng
 KELONTANG    k ## l ao n t aa ng
 KELONTANG-KELANTUNG    k ## l ao n t aa ng k ## l aa n t uw ng
 KELONTONG    k ## l ao n t ao ng
-KELONYO    k ## l ao n y ao
+KELONYO    k ## l ao ny ao
 KELOP    k ## l ao p
 KELOPAK    k ## l ao p aa k
 KELOR    k ## l ao r
@@ -12962,7 +12962,7 @@ KEMENDALAM    k ## m ## n d aa l aa m
 KEMENDANG    k ## m ## n d aa ng
 KEMENDUR    k ## m ## n d uw r
 KEMENTAM    k ## m ## n t aa m
-KEMENYAN    k ## m ## n y aa n
+KEMENYAN    k ## m ## ny aa n
 KEMERAKAN    k ## m ## r aa k aa n
 KEMESU    k ## m ## s uw
 KEMI    k ## m ih
@@ -13085,18 +13085,18 @@ KENTRUNG    k ## n t r uw ng
 KENTUNG    k ## n t uw ng
 KENTUT    k ## n t uw t
 KENUR    k ## n uw r
-KENYA    k ## n y aa
-KENYAL    k ## n y aa l
-KENYAM    k ## n y aa m
-KENYANG    k ## n y aa ng
-KENYAT    k ## n y aa t
-KENYAT-KENYIT    k ## n y aa t k ## n y ih t
-KENYET-KENYUT    k ## n y ## t k ## n y uw t
-KENYI    k ## n y ih
-KENYIH    k ## n y ih hh
-KENYIR    k ## n y ih r
-KENYIT    k ## n y ih t
-KENYUT    k ## n y uw t
+KENYA    k ## ny aa
+KENYAL    k ## ny aa l
+KENYAM    k ## ny aa m
+KENYANG    k ## ny aa ng
+KENYAT    k ## ny aa t
+KENYAT-KENYIT    k ## ny aa t k ## ny ih t
+KENYET-KENYUT    k ## ny ## t k ## ny uw t
+KENYI    k ## ny ih
+KENYIH    k ## ny ih hh
+KENYIR    k ## ny ih r
+KENYIT    k ## ny ih t
+KENYUT    k ## ny uw t
 KEOK    k ## ao k
 KEONG    k ## ao ng
 KEP    k ## p
@@ -13269,8 +13269,8 @@ KERENGKIANG    k ## r ## ng k ih aa ng
 KERENTAM    k ## r ## n t aa m
 KERENTANG    k ## r ## n t aa ng
 KERENTING    k ## r ## n t ih ng
-KERENYAM    k ## r ## n y aa m
-KERENYOT    k ## r ## n y ao t
+KERENYAM    k ## r ## ny aa m
+KERENYOT    k ## r ## ny ao t
 KEREPAS    k ## r ## p aa s
 KEREPEK    k ## r ## p ## k
 KEREPES    k ## r ## p ## s
@@ -13347,12 +13347,12 @@ KERNAI    k ## r n ##
 KERNELI    k ## r n ## l ih
 KERNET    k ## r n ## t
 KERNU    k ## r n uw
-KERNYAT-KERNYUT    k ## r n y aa t k ## r n y uw t
-KERNYAU    k ## r n y ##
-KERNYIH    k ## r n y ih hh
-KERNYING    k ## r n y ih ng
-KERNYIT    k ## r n y ih t
-KERNYUT    k ## r n y uw t
+KERNYAT-KERNYUT    k ## r ny aa t k ## r ny uw t
+KERNYAU    k ## r ny ##
+KERNYIH    k ## r ny ih hh
+KERNYING    k ## r ny ih ng
+KERNYIT    k ## r ny ih t
+KERNYUT    k ## r ny uw t
 KERO    k ## r ao
 KEROBAK    k ## r ao b aa k
 KEROBAT    k ## r ao b aa t
@@ -13437,7 +13437,7 @@ KERUNKEL    k ## r uw n k ## l
 KERUNTANG-PUNGKANG    k ## r uw n t aa ng p uw ng k aa ng
 KERUNTING    k ## r uw n t ih ng
 KERUNTUNG    k ## r uw n t uw ng
-KERUNYUT    k ## r uw n y uw t
+KERUNYUT    k ## r uw ny uw t
 KERUP    k ## r uw p
 KERUPUK    k ## r uw p uw k
 KERUT    k ## r uw t
@@ -13816,7 +13816,7 @@ KINTAKA    k ih n t aa k aa
 KINTAL    k ih n t aa l
 KINTE    k ih n t ##
 KINTIL    k ih n t ih l
-KINYANG    k ih n y aa ng
+KINYANG    k ih ny aa ng
 KIO    k ih ao
 KIOS    k ih ao s
 KIPA    k ih p aa
@@ -13844,7 +13844,7 @@ KIRBAT    k ih r b aa t
 KIRI    k ih r ih
 KIRIK    k ih r ih k
 KIRIM    k ih r ih m
-KIRINYU    k ih r ih n y uw
+KIRINYU    k ih r ih ny uw
 KIRIP    k ih r ih p
 KIRIS    k ih r ih s
 KIRITA    k ih r ih t aa
@@ -14170,7 +14170,7 @@ KOLONIALISME    k ao l ao n ih aa l ih s m ##
 KOLONIS    k ao l ao n ih s
 KOLONISASI    k ao l ao n ih s aa s ih
 KOLONOSKOP    k ao l ao n ao s k ao p
-KOLONYE    k ao l ao n y ##
+KOLONYE    k ao l ao ny ##
 KOLOR    k ao l ao r
 KOLORIMETER    k ao l ao r ih m ## t ## r
 KOLORIMETRI    k ao l ao r ih m ## t r ih
@@ -14234,7 +14234,7 @@ KOMODITAS    k ao m ao d ih t aa s
 KOMODO    k ao m ao d ao
 KOMODOR    k ao m ao d ao r
 KOMPAK    k ao m p aa k
-KOMPANYON    k ao m p aa n y ao n
+KOMPANYON    k ao m p aa ny ao n
 KOMPARASI    k ao m p aa r aa s ih
 KOMPARATIF    k ao m p aa r aa t ih f
 KOMPARATOR    k ao m p aa r aa t ao r
@@ -14428,8 +14428,8 @@ KONSIDERANS    k ao n s ih d ## r aa n s
 KONSIDERASI    k ao n s ih d ## r aa s ih
 KONSILI    k ao n s ih l ih
 KONSILIASI    k ao n s ih l ih aa s ih
-KONSINYASI    k ao n s ih n y aa s ih
-KONSINYATIR    k ao n s ih n y aa t ih r
+KONSINYASI    k ao n s ih ny aa s ih
+KONSINYATIR    k ao n s ih ny aa t ih r
 KONSISTEN    k ao n s ih s t ## n
 KONSISTENSI    k ao n s ih s t ## n s ih
 KONSISTORI    k ao n s ih s t ao r ih
@@ -14537,10 +14537,10 @@ KONVOI    k ao n f ##
 KONVOLUSI    k ao n f ao l uw s ih
 KONVULSAN    k ao n f uw l s aa n
 KONVULSI    k ao n f uw l s ih
-KONYAK    k ao n y aa k
-KONYAL    k ao n y aa l
-KONYAN    k ao n y aa n
-KONYOL    k ao n y ao l
+KONYAK    k ao ny aa k
+KONYAL    k ao ny aa l
+KONYAN    k ao ny aa n
+KONYOL    k ao ny ao l
 KOOPERASI    k ao ao p ## r aa s ih
 KOOPERATIF    k ao ao p ## r aa t ih f
 KOOPERATIVISME    k ao ao p ## r aa t ih f ih s m ##
@@ -15088,10 +15088,10 @@ KUNTUL    k uw n t uw l
 KUNTUM    k uw n t uw m
 KUNTUNG    k uw n t uw ng
 KUNUT    k uw n uw t
-KUNYAH    k uw n y aa hh
-KUNYAM    k uw n y aa m
-KUNYIT    k uw n y ih t
-KUNYUK    k uw n y uw k
+KUNYAH    k uw ny aa hh
+KUNYAM    k uw ny aa m
+KUNYIT    k uw ny ih t
+KUNYUK    k uw ny uw k
 KUORUM    k uw ao r uw m
 KUOSIEN    k uw ao s ih ## n
 KUOTA    k uw ao t aa
@@ -15542,9 +15542,9 @@ LANTUR    l aa n t uw r
 LANUGO    l aa n uw g ao
 LANUN    l aa n uw n
 LANUS    l aa n uw s
-LANYAH    l aa n y aa hh
-LANYAK    l aa n y aa k
-LANYAU    l aa n y ##
+LANYAH    l aa ny aa hh
+LANYAK    l aa ny aa k
+LANYAU    l aa ny ##
 LAOCU    l aa ao ch uw
 LAOS    l aa ao s
 LAOTENG    l aa ao t ## ng
@@ -16011,14 +16011,14 @@ LENTUNG    l ## n t uw ng
 LENTUR    l ## n t uw r
 LENTUS    l ## n t uw s
 LENUNG    l ## n uw ng
-LENYAH    l ## n y aa hh
-LENYAI    l ## n y ##
-LENYAK    l ## n y aa k
-LENYAP    l ## n y aa p
-LENYAU    l ## n y ##
-LENYEH    l ## n y ## hh
-LENYET    l ## n y ## t
-LENYUT    l ## n y uw t
+LENYAH    l ## ny aa hh
+LENYAI    l ## ny ##
+LENYAK    l ## ny aa k
+LENYAP    l ## ny aa p
+LENYAU    l ## ny ##
+LENYEH    l ## ny ## hh
+LENYET    l ## ny ## t
+LENYUT    l ## ny uw t
 LEO    l ## ao
 LEONID    l ## ao n ih d
 LEONTIN    l ## ao n t ih n
@@ -16344,8 +16344,8 @@ LINTUH    l ih n t uw hh
 LINTUP    l ih n t uw p
 LINU    l ih n uw
 LINUHUNG    l ih n uw hh uw ng
-LINYAK    l ih n y aa k
-LINYAR    l ih n y aa r
+LINYAK    l ih ny aa k
+LINYAR    l ih ny aa r
 LIO    l ih ao
 LIOFILISASI    l ih ao f ih l ih s aa s ih
 LIONG    l ih ao ng
@@ -16537,7 +16537,7 @@ LONTARA    l ao n t aa r aa
 LONTE    l ao n t ##
 LONTOK    l ao n t ao k
 LONTONG    l ao n t ao ng
-LONYOK    l ao n y ao k
+LONYOK    l ao ny ao k
 LOP    l ao p
 LOPAK    l ao p aa k
 LOPEK    l ao p ## k
@@ -16552,7 +16552,7 @@ LORBER    l ao r b ## r
 LOREK    l ao r ## k
 LORENG    l ao r ## ng
 LORI    l ao r ih
-LORNYET    l ao r n y ## t
+LORNYET    l ao r ny ## t
 LORONG    l ao r ao ng
 LOROT    l ao r ao t
 LOS    l ao s
@@ -16690,8 +16690,8 @@ LUNTANG    l uw n t aa ng
 LUNTANG-LANTUNG    l uw n t aa ng l aa n t uw ng
 LUNTAS    l uw n t aa s
 LUNTUR    l uw n t uw r
-LUNYAH    l uw n y aa hh
-LUNYAI    l uw n y ##
+LUNYAH    l uw ny aa hh
+LUNYAI    l uw ny ##
 LUP    l uw p
 LUPA    l uw p aa
 LUPA-LUPA    l uw p aa l uw p aa
@@ -16907,7 +16907,7 @@ MAKAM    m aa k aa m
 MAKAN    m aa k aa n
 MAKANTAH    m aa k aa n t aa hh
 MAKANTUH    m aa k aa n t uw hh
-MAKANYA    m aa k aa n y aa
+MAKANYA    m aa k aa ny aa
 MAKAO    m aa k aa ao
 MAKAOPO    m aa k aa ao p ao
 MAKAR    m aa k aa r
@@ -17142,7 +17142,7 @@ MANGGIS    m aa ng g ih s
 MANGGUNG    m aa ng g uw ng
 MANGIR    m aa ng ih r
 MANGKAK    m aa ng k aa k
-MANGKANYA    m aa ng k aa n y aa
+MANGKANYA    m aa ng k aa ny aa
 MANGKAR    m aa ng k aa r
 MANGKAS    m aa ng k aa s
 MANGKAT    m aa ng k aa t
@@ -17222,8 +17222,8 @@ MANUSKRIP    m aa n uw s k r ih p
 MANUT    m aa n uw t
 MANUVER    m aa n uw f ## r
 MANUWA    m aa n uw w aa
-MANYALA    m aa n y aa l aa
-MANYAR    m aa n y aa r
+MANYALA    m aa ny aa l aa
+MANYAR    m aa ny aa r
 MANZIL    m aa n z ih l
 MANZILAH    m aa n z ih l aa hh
 MAOIS    m aa ## s
@@ -17278,8 +17278,8 @@ MARINA    m aa r ih n aa
 MARINADE    m aa r ih n aa d ##
 MARINE    m aa r ih n ##
 MARINIR    m aa r ih n ih r
-MARINYO    m aa r ih n y ao
-MARINYU    m aa r ih n y uw
+MARINYO    m aa r ih ny ao
+MARINYU    m aa r ih ny uw
 MARITAL    m aa r ih t aa l
 MARITIM    m aa r ih t ih m
 MARIYUANA    m aa r ih y uw aa n aa
@@ -18139,7 +18139,7 @@ MINTERAT    m ih n t ## r aa t
 MINTUNA    m ih n t uw n aa
 MINUM    m ih n uw m
 MINUS    m ih n uw s
-MINYAK    m ih n y aa k
+MINYAK    m ih ny aa k
 MIOGLOBIN    m ih ao g l ao b ih n
 MIOKARDIA    m ih ao k aa r d ih aa
 MIOMA    m ih ao m aa
@@ -18347,7 +18347,7 @@ MONOTEIS    m ao n ao t ## s
 MONOTEISME    m ao n ao t ## s m ##
 MONOTIPE    m ao n ao t ih p ##
 MONOTON    m ao n ao t ao n
-MONSINYUR    m ao n s ih n y uw r
+MONSINYUR    m ao n s ih ny uw r
 MONSTER    m ao n s t ## r
 MONSTERA    m ao n s t ## r aa
 MONSUN    m ao n s uw n
@@ -18358,9 +18358,9 @@ MONTIT    m ao n t ih t
 MONTOK    m ao n t ao k
 MONUMEN    m ao n uw m ## n
 MONUMENTAL    m ao n uw m ## n t aa l
-MONYET    m ao n y ## t
-MONYONG    m ao n y ao ng
-MONYOS    m ao n y ao s
+MONYET    m ao ny ## t
+MONYONG    m ao ny ao ng
+MONYOS    m ao ny ao s
 MOP    m ao p
 MOPELA    m ao p ## l aa
 MOPIT    m ao p ih t
@@ -18647,7 +18647,7 @@ MUNTAHA    m uw n t aa hh aa
 MUNTU    m uw n t uw
 MUNTUL    m uw n t uw l
 MUNTUP    m uw n t uw p
-MUNYUK    m uw n y uw k
+MUNYUK    m uw ny uw k
 MUON    m uw ao n
 MUPAHAM    m uw p aa hh aa m
 MUPARIK    m uw p aa r ih k
@@ -19112,7 +19112,7 @@ NGELINDUR    ng ## l ih n d uw r
 NGEMIL    ng ## m ih l
 NGENAS    ng ## n aa s
 NGENGAT    ng ## ng aa t
-NGENYEK    ng ## n y ## k
+NGENYEK    ng ## ny ## k
 NGEONG    ng ## ao ng
 NGERES    ng ## r ## s
 NGERI    ng ## r ih
@@ -19354,73 +19354,73 @@ NUTRISIONIS    n uw t r ih s ih ao n ih s
 NUTRISISME    n uw t r ih s ih s m ##
 NUZUL    n uw z uw l
 NUZULUL    n uw z uw l uw l
-NYAI    n y ##
-NYAK    n y aa k
-NYALA    n y aa l aa
-NYALANG    n y aa l aa ng
-NYALAR    n y aa l aa r
-NYALAWADI    n y aa l aa w aa d ih
-NYALE    n y aa l ##
-NYALI    n y aa l ih
-NYAMAN    n y aa m aa n
-NYAMBING    n y aa m b ih ng
-NYAMIK    n y aa m ih k
-NYAMLENG    n y aa m l ## ng
-NYAMPANG    n y aa m p aa ng
-NYAMPLUNG    n y aa m p l uw ng
-NYAMUK    n y aa m uw k
-NYAMUR    n y aa m uw r
-NYANA    n y aa n aa
-NYANG    n y aa ng
-NYANYA    n y aa n y aa
-NYANYAH    n y aa n y aa hh
-NYANYANG    n y aa n y aa ng
-NYANYAR    n y aa n y aa r
-NYANYI    n y aa n y ih
-NYANYU    n y aa n y uw
-NYANYUK    n y aa n y uw k
-NYAPANG    n y aa p aa ng
-NYAPNYAP    n y aa p n y aa p
-NYARANG    n y aa r aa ng
-NYARIK    n y aa r ih k
-NYARING    n y aa r ih ng
-NYARIS    n y aa r ih s
-NYATA    n y aa t aa
-NYATUH    n y aa t uw hh
-NYAWA    n y aa w aa
-NYAWANG    n y aa w aa ng
-NYELEKIT    n y ## l ## k ih t
-NYEMPLONG    n y ## m p l ao ng
-NYENTRIK    n y ## n t r ih k
-NYENYAI    n y ## n y ##
-NYENYAK    n y ## n y aa k
-NYENYAT    n y ## n y aa t
-NYENYEH    n y ## n y ## hh
-NYENYEP    n y ## n y ## p
-NYENYET    n y ## n y ## t
-NYEPI    n y ## p ih
-NYERI    n y ## r ih
-NYEROCOS    n y ## r ao ch ao s
-NYI    n y ih
-NYILIH    n y ih l ih hh
-NYINGNYING    n y ih ng n y ih ng
-NYINYIR    n y ih n y ih r
-NYIRI    n y ih r ih
-NYIRU    n y ih r uw
-NYIT    n y ih t
-NYIUR    n y ih uw r
-NYOLNYOLAN    n y ao l n y ao l aa n
-NYOLO    n y ao l ao
-NYOMAN    n y ao m aa n
-NYONG    n y ao ng
-NYONYA    n y ao n y aa
-NYONYEH    n y ao n y ## hh
-NYONYONG    n y ao n y ao ng
-NYONYOR    n y ao n y ao r
-NYUNGSUNG    n y uw ng s uw ng
-NYUNYUT    n y uw n y uw t
-NYURENG    n y uw r ## ng
-NYUT    n y uw t
+NYAI    ny ##
+NYAK    ny aa k
+NYALA    ny aa l aa
+NYALANG    ny aa l aa ng
+NYALAR    ny aa l aa r
+NYALAWADI    ny aa l aa w aa d ih
+NYALE    ny aa l ##
+NYALI    ny aa l ih
+NYAMAN    ny aa m aa n
+NYAMBING    ny aa m b ih ng
+NYAMIK    ny aa m ih k
+NYAMLENG    ny aa m l ## ng
+NYAMPANG    ny aa m p aa ng
+NYAMPLUNG    ny aa m p l uw ng
+NYAMUK    ny aa m uw k
+NYAMUR    ny aa m uw r
+NYANA    ny aa n aa
+NYANG    ny aa ng
+NYANYA    ny aa ny aa
+NYANYAH    ny aa ny aa hh
+NYANYANG    ny aa ny aa ng
+NYANYAR    ny aa ny aa r
+NYANYI    ny aa ny ih
+NYANYU    ny aa ny uw
+NYANYUK    ny aa ny uw k
+NYAPANG    ny aa p aa ng
+NYAPNYAP    ny aa p ny aa p
+NYARANG    ny aa r aa ng
+NYARIK    ny aa r ih k
+NYARING    ny aa r ih ng
+NYARIS    ny aa r ih s
+NYATA    ny aa t aa
+NYATUH    ny aa t uw hh
+NYAWA    ny aa w aa
+NYAWANG    ny aa w aa ng
+NYELEKIT    ny ## l ## k ih t
+NYEMPLONG    ny ## m p l ao ng
+NYENTRIK    ny ## n t r ih k
+NYENYAI    ny ## ny ##
+NYENYAK    ny ## ny aa k
+NYENYAT    ny ## ny aa t
+NYENYEH    ny ## ny ## hh
+NYENYEP    ny ## ny ## p
+NYENYET    ny ## ny ## t
+NYEPI    ny ## p ih
+NYERI    ny ## r ih
+NYEROCOS    ny ## r ao ch ao s
+NYI    ny ih
+NYILIH    ny ih l ih hh
+NYINGNYING    ny ih ng ny ih ng
+NYINYIR    ny ih ny ih r
+NYIRI    ny ih r ih
+NYIRU    ny ih r uw
+NYIT    ny ih t
+NYIUR    ny ih uw r
+NYOLNYOLAN    ny ao l ny ao l aa n
+NYOLO    ny ao l ao
+NYOMAN    ny ao m aa n
+NYONG    ny ao ng
+NYONYA    ny ao ny aa
+NYONYEH    ny ao ny ## hh
+NYONYONG    ny ao ny ao ng
+NYONYOR    ny ao ny ao r
+NYUNGSUNG    ny uw ng s uw ng
+NYUNYUT    ny uw ny uw t
+NYURENG    ny uw r ## ng
+NYUT    ny uw t
 O    ao
 OASE    ao aa s ##
 OASIS    ao aa s ih s
@@ -19464,7 +19464,7 @@ OBYEKTIVITAS    ao b y ## k t ih f ih t aa s
 OCEH    ao ch ## hh
 ODALAN    ao d aa l aa n
 ODE    ao d ##
-ODEKOLONYE    ao d ## k ao l ao n y ##
+ODEKOLONYE    ao d ## k ao l ao ny ##
 ODINOMETER    ao d ih n ao m ## t ## r
 ODITUR    ao d ih t uw r
 ODOH    ao d ao hh
@@ -19637,11 +19637,11 @@ ONTOGENI    ao n t ao g ## n ih
 ONTOLOGI    ao n t ao l ao g ih
 ONTOLOGIS    ao n t ao l ao g ih s
 ONTRAN-ONTRAN    ao n t r aa n ao n t r aa n
-ONYAH-ANYIH    ao n y aa hh aa n y ih hh
-ONYAK-ANYIK    ao n y aa k aa n y ih k
-ONYANG    ao n y aa ng
-ONYOK    ao n y ao k
-ONYOT    ao n y ao t
+ONYAH-ANYIH    ao ny aa hh aa ny ih hh
+ONYAK-ANYIK    ao ny aa k aa ny ih k
+ONYANG    ao ny aa ng
+ONYOK    ao ny ao k
+ONYOT    ao ny ao t
 OOGENESIS    ao ao g ## n ## s ih s
 OOLIT    ao ao l ih t
 OPA    ao p aa
@@ -19713,7 +19713,7 @@ ORAL    ao r aa l
 ORALIT    ao r aa l ih t
 ORANG    ao r aa ng
 ORANG-ARING    ao r aa ng aa r ih ng
-ORANYE    ao r aa n y ##
+ORANYE    ao r aa ny ##
 ORASI    ao r aa s ih
 ORAT-ORET    ao r aa t ao r ## t
 ORATOR    ao r aa t ao r
@@ -20258,7 +20258,7 @@ PANTUL    p aa n t uw l
 PANTUN    p aa n t uw n
 PANUS    p aa n uw s
 PANUTAN    p aa n uw t aa n
-PANYEMBRAMA    p aa n y ## m b r aa m aa
+PANYEMBRAMA    p aa ny ## m b r aa m aa
 PAO-PAO    p aa ao p aa ao
 PAPA    p aa p aa
 PAPACANG    p aa p aa ch aa ng
@@ -20955,11 +20955,11 @@ PENTOSA    p ## n t ao s aa
 PENTOTAL    p ## n t ao t aa l
 PENTUNG    p ## n t uw ng
 PENUH    p ## n uw hh
-PENYAP    p ## n y aa p
-PENYEK    p ## n y ## k
-PENYET    p ## n y ## t
-PENYOK    p ## n y ao k
-PENYU    p ## n y uw
+PENYAP    p ## ny aa p
+PENYEK    p ## ny ## k
+PENYET    p ## ny ## t
+PENYOK    p ## ny ao k
+PENYU    p ## ny uw
 PEOK    p ## ao k
 PEOT    p ## ao t
 PEPAGAN    p ## p aa g aa n
@@ -21020,7 +21020,7 @@ PERANGKAP    p ## r aa ng k aa p
 PERANGKAT    p ## r aa ng k aa t
 PERANJAT    p ## r aa n jh aa t
 PERANTI    p ## r aa n t ih
-PERANYE    p ## r aa n y ##
+PERANYE    p ## r aa ny ##
 PERAP    p ## r aa p
 PERAS    p ## r aa s
 PERAS-PERUS    p ## r aa s p ## r uw s
@@ -21067,8 +21067,8 @@ PERENGUS    p ## r ## ng uw s
 PERENGUT    p ## r ## ng uw t
 PERENIAL    p ## r ## n ih aa l
 PERENKUM    p ## r ## n k uw m
-PERENYAK    p ## r ## n y aa k
-PERENYUK    p ## r ## n y uw k
+PERENYAK    p ## r ## ny aa k
+PERENYUK    p ## r ## ny uw k
 PEREPAT    p ## r ## p aa t
 PERES    p ## r ## s
 PERESAU    p ## r ## s ##
@@ -21230,7 +21230,7 @@ PEROMAN    p ## r ao m aa n
 PEROMPAK    p ## r ao m p aa k
 PERON    p ## r ao n
 PERONEAL    p ## r ao n ## aa l
-PERONYOK    p ## r ao n y ao k
+PERONYOK    p ## r ao ny ao k
 PEROP    p ## r ao p
 PEROSOK    p ## r ao s ao k
 PEROSOT    p ## r ao s ao t
@@ -22474,7 +22474,7 @@ PUNTUK    p uw n t uw k
 PUNTUL    p uw n t uw l
 PUNTUNG    p uw n t uw ng
 PUNUK    p uw n uw k
-PUNYA    p uw n y aa
+PUNYA    p uw ny aa
 PUPA    p uw p aa
 PUPIL    p uw p ih l
 PUPU    p uw p uw
@@ -22890,10 +22890,10 @@ RANTING    r aa n t ih ng
 RANTUK    r aa n t uw k
 RANTUS    r aa n t uw s
 RANUM    r aa n uw m
-RANYAH    r aa n y aa hh
-RANYANG    r aa n y aa ng
-RANYAU    r aa n y ##
-RANYUN    r aa n y uw n
+RANYAH    r aa ny aa hh
+RANYANG    r aa ny aa ng
+RANYAU    r aa ny ##
+RANYUN    r aa ny uw n
 RAP    r aa p
 RAPAH    r aa p aa hh
 RAPAI    r aa p ##
@@ -23350,17 +23350,17 @@ RENTIK    r ## n t ih k
 RENUMERASI    r ## n uw m ## r aa s ih
 RENUNG    r ## n uw ng
 RENVOI    r ## n f ##
-RENYAH    r ## n y aa hh
-RENYAI    r ## n y ##
-RENYAM    r ## n y aa m
-RENYANG    r ## n y aa ng
-RENYAP    r ## n y aa p
-RENYAU    r ## n y ##
-RENYEH    r ## n y ## hh
-RENYEK    r ## n y ## k
-RENYEM    r ## n y ## m
-RENYUK    r ## n y uw k
-RENYUT    r ## n y uw t
+RENYAH    r ## ny aa hh
+RENYAI    r ## ny ##
+RENYAM    r ## ny aa m
+RENYANG    r ## ny aa ng
+RENYAP    r ## ny aa p
+RENYAU    r ## ny ##
+RENYEH    r ## ny ## hh
+RENYEK    r ## ny ## k
+RENYEM    r ## ny ## m
+RENYUK    r ## ny uw k
+RENYUT    r ## ny uw t
 REOG    r ## ao g
 REOL    r ## ao l
 REOLOGI    r ## ao l ao g ih
@@ -23642,7 +23642,7 @@ RINTIH    r ih n t ih hh
 RINTIK    r ih n t ih k
 RINTIK-RINTIK    r ih n t ih k r ih n t ih k
 RINTIS    r ih n t ih s
-RINYAI    r ih n y ##
+RINYAI    r ih ny ##
 RIOL    r ih ao l
 RIPIT    r ih p ih t
 RIPTA    r ih p t aa
@@ -23777,8 +23777,8 @@ RONTA    r ao n t aa
 RONTEK    r ao n t ## k
 RONTGEN    r ao n t g ## n
 RONTOK    r ao n t ao k
-RONYEH    r ao n y ## hh
-RONYOK    r ao n y ao k
+RONYEH    r ao ny ## hh
+RONYOK    r ao ny ao k
 ROPAK-RAPIK    r ao p aa k r aa p ih k
 ROREHE    r ao r ## hh ##
 ROROD    r ao r ao d
@@ -23929,8 +23929,8 @@ RUNTUH    r uw n t uw hh
 RUNTUN    r uw n t uw n
 RUNTUT    r uw n t uw t
 RUNUT    r uw n uw t
-RUNYAM    r uw n y aa m
-RUNYUT    r uw n y uw t
+RUNYAM    r uw ny aa m
+RUNYUT    r uw ny uw t
 RUOK    r uw ao k
 RUPA    r uw p aa
 RUPAWAN    r uw p aa w aa n
@@ -24214,7 +24214,7 @@ SAMPAK    s aa m p aa k
 SAMPAKAN    s aa m p aa k aa n
 SAMPAN    s aa m p aa n
 SAMPANG    s aa m p aa ng
-SAMPANYE    s aa m p aa n y ##
+SAMPANYE    s aa m p aa ny ##
 SAMPAR    s aa m p aa r
 SAMPARAN    s aa m p aa r aa n
 SAMPAT    s aa m p aa t
@@ -24606,7 +24606,7 @@ SEGEL    s ## g ## l
 SEGENAP    s ## g ## n aa p
 SEGERA    s ## g ## r aa
 SEGI    s ## g ih
-SEGIANYA    s ## g ih aa n y aa
+SEGIANYA    s ## g ih aa ny aa
 SEGITIGA    s ## g ih t ih g aa
 SEGMEN    s ## g m ## n
 SEGMENTAL    s ## g m ## n t aa l
@@ -24694,7 +24694,7 @@ SEKOI    s ## k ##
 SEKOLAH    s ## k ao l aa hh
 SEKON    s ## k ao n
 SEKONGKOL    s ## k ao ng k ao l
-SEKONYONG-KONYONG    s ## k ao n y ao ng k ao n y ao ng
+SEKONYONG-KONYONG    s ## k ao ny ao ng k ao ny ao ng
 SEKOP    s ## k ao p
 SEKOPONG    s ## k ao p ao ng
 SEKOTENG    s ## k ao t ## ng
@@ -24734,7 +24734,7 @@ SEKULER    s ## k uw l ## r
 SEKULIR    s ## k uw l ih r
 SEKUNAR    s ## k uw n aa r
 SEKUNDER    s ## k uw n d ## r
-SEKUNYIT    s ## k uw n y ih t
+SEKUNYIT    s ## k uw ny ih t
 SEKURITAS    s ## k uw r ih t aa s
 SEKURITI    s ## k uw r ih t ih
 SEKUTU    s ## k uw t uw
@@ -25016,7 +25016,7 @@ SEMBUANG    s ## m b uw aa ng
 SEMBUH    s ## m b uw hh
 SEMBUL    s ## m b uw l
 SEMBUNG    s ## m b uw ng
-SEMBUNYI    s ## m b uw n y ih
+SEMBUNYI    s ## m b uw ny ih
 SEMBUR    s ## m b uw r
 SEMBURAT    s ## m b uw r aa t
 SEMBURIT    s ## m b uw r ih t
@@ -25295,12 +25295,12 @@ SENUH    s ## n uw hh
 SENUK    s ## n uw k
 SENUNGGANG    s ## n uw ng g aa ng
 SENUR    s ## n uw r
-SENYAMPANG    s ## n y aa m p aa ng
-SENYAP    s ## n y aa p
-SENYAR    s ## n y aa r
-SENYAWA    s ## n y aa w aa
-SENYUM    s ## n y uw m
-SENYUR    s ## n y uw r
+SENYAMPANG    s ## ny aa m p aa ng
+SENYAP    s ## ny aa p
+SENYAR    s ## ny aa r
+SENYAWA    s ## ny aa w aa
+SENYUM    s ## ny uw m
+SENYUR    s ## ny uw r
 SEOK    s ## ao k
 SEOLAH-OLAH    s ## ao l aa hh ao l aa hh
 SEP    s ## p
@@ -26045,11 +26045,11 @@ SINUS    s ih n uw s
 SINUSAL    s ih n uw s aa l
 SINUSITIS    s ih n uw s ih t ih s
 SINUSOID    s ih n uw s ## d
-SINYAL    s ih n y aa l
-SINYALEMEN    s ih n y aa l ## m ## n
-SINYALIR    s ih n y aa l ih r
-SINYO    s ih n y ao
-SINYOKOLAS    s ih n y ao k ao l aa s
+SINYAL    s ih ny aa l
+SINYALEMEN    s ih ny aa l ## m ## n
+SINYALIR    s ih ny aa l ih r
+SINYO    s ih ny ao
+SINYOKOLAS    s ih ny ao k ao l aa s
 SIO    s ih ao
 SIOCA    s ih ao ch aa
 SIONG    s ih ao ng
@@ -26934,8 +26934,8 @@ SUNTING    s uw n t ih ng
 SUNTUK    s uw n t uw k
 SUNU    s uw n uw
 SUNUKUNG    s uw n uw k uw ng
-SUNYATA    s uw n y aa t aa
-SUNYI    s uw n y ih
+SUNYATA    s uw ny aa t aa
+SUNYI    s uw ny ih
 SUP    s uw p
 SUPA    s uw p aa
 SUPAI    s uw p ##
@@ -27544,7 +27544,7 @@ TANUR    t aa n uw r
 TANWIN    t aa n w ih n
 TANWIR    t aa n w ih r
 TANWUJUD    t aa n w uw jh uw d
-TANYA    t aa n y aa
+TANYA    t aa ny aa
 TANZIH    t aa n z ih hh
 TANZIL    t aa n z ih l
 TAOCANG    t aa ao ch aa ng
@@ -28245,7 +28245,7 @@ TERENANG    t ## r ## n aa ng
 TERENDAK    t ## r ## n d aa k
 TERENEN    t ## r ## n ## n
 TERENTANG    t ## r ## n t aa ng
-TERENYUH    t ## r ## n y uw hh
+TERENYUH    t ## r ## ny uw hh
 TERES    t ## r ## s
 TERET    t ## r ## t
 TERETET    t ## r ## t ## t
@@ -28820,7 +28820,7 @@ TREMOR    t r ## m ao r
 TREN    t r ## n
 TRENDI    t r ## n d ih
 TRENGGINAS    t r ## ng g ih n aa s
-TRENYUH    t r ## n y uw hh
+TRENYUH    t r ## ny uw hh
 TRES    t r ## s
 TRESNA    t r ## s n aa
 TRI    t r ih
@@ -29445,7 +29445,7 @@ UNTUN    uw n t uw n
 UNTUNG    uw n t uw ng
 UNTUT    uw n t uw t
 UNUN    uw n uw n
-UNYAI    uw n y ##
+UNYAI    uw ny ##
 UPA    uw p aa
 UPABOGA    uw p aa b ao g aa
 UPACARA    uw p aa ch aa r aa
@@ -29715,7 +29715,7 @@ VIKARIAT    f ih k aa r ih aa t
 VIKARIS    f ih k aa r ih s
 VILA    f ih l aa
 VINIL    f ih n ih l
-VINYET    f ih n y ## t
+VINYET    f ih ny ## t
 VIOL    f ih ao l
 VIOLA    f ih ao l aa
 VIOLCES    f ih ao l ch ## s
