@@ -6214,7 +6214,7 @@ DRUMBEN    d r uw m b ## n
 DRUMER    d r uw m ## r
 DRUWE    d r uw w ##
 DUA    d uw aa
-DUABELAS d uw aa b ah l ah s
+DUABELAS d uw aa b ah l aa s
 DUAFA    d uw aa f aa
 DUAI    d uw ##
 DUAJA    d uw aa jh aa
