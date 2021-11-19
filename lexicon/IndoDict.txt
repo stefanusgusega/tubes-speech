@@ -2534,7 +2534,7 @@ BATAS    b aa t aa s
 BATEKENG    b aa t ## k ## ng
 BATEL    b aa t ## l
 BATELA    b aa t ## l aa
-BATERAI    b aa t ## r ##
+BATERAI    b aa t ah r ay
 BATI    b aa t ih
 BATIH    b aa t ih hh
 BATIK    b aa t ih k
@@ -2800,7 +2800,7 @@ BELERA    b ## l ## r aa
 BELERANG    b ## l ## r aa ng
 BELERONG    b ## l ## r ao ng
 BELETER    b ## l ## t ## r
-BELI    b ## l ih
+BELI    b ah l ih
 BELIA    b ## l ih aa
 BELIAK    b ## l ih aa k
 BELIAN    b ## l ih aa n
@@ -13327,7 +13327,7 @@ KERITIK    k ## r ih t ih k
 KERITING    k ## r ih t ih ng
 KERIUK    k ## r ih uw k
 KERIUT    k ## r ih uw t
-KERJA    k ## r jh aa
+KERJA    k ah r jh aa
 KERJANG    k ## r jh aa ng
 KERJANTARA    k ## r jh aa n t aa r aa
 KERJAP    k ## r jh aa p
@@ -16867,7 +16867,7 @@ MAHZURAT    m aa hh z uw r aa t
 MAI    m ##
 MAIDO    m ## d ao
 MAIMUN    m ## m uw n
-MAIN    m ## n
+MAIN    m aa ih n
 MAIR    m ## r
 MAIRAT    m ## r aa t
 MAIZENA    m ## z ## n aa
@@ -17435,7 +17435,7 @@ MATU    m aa t uw
 MATUR    m aa t uw r
 MATURASI    m aa t uw r aa s ih
 MATURITAS    m aa t uw r ih t aa s
-MAU    m ##
+MAU    m aw
 MAUIZAH    m ## ih z aa hh
 MAUJUD    m ## jh uw d
 MAUJUDAT    m ## jh uw d aa t
@@ -21088,7 +21088,7 @@ PERGAM    p ## r g aa m
 PERGAT    p ## r g aa t
 PERGATA    p ## r g aa t aa
 PERGEDEL    p ## r g ## d ## l
-PERGI    p ## r g ih
+PERGI    p ah r g ih
 PERGOK    p ## r g ao k
 PERGOL    p ## r g ao l
 PERGOLA    p ## r g ao l aa
@@ -24655,7 +24655,7 @@ SEKANG    s ## k aa ng
 SEKAP    s ## k aa p
 SEKAPAR    s ## k aa p aa r
 SEKAR    s ## k aa r
-SEKARANG    s ## k aa r aa ng
+SEKARANG    s ah k aa r aa ng
 SEKARAT    s ## k aa r aa t
 SEKAT    s ## k aa t
 SEKATA    s ## k aa t aa
@@ -25221,7 +25221,7 @@ SENIGAI    s ## n ih g ##
 SENIL    s ## n ih l
 SENILITAS    s ## n ih l ih t aa s
 SENIMAN    s ## n ih m aa n
-SENIN    s ## n ih n
+SENIN    s ah n ih n
 SENIOR    s ## n ih ao r
 SENIORITAS    s ## n ih ao r ih t aa s
 SENIWAN    s ## n ih w aa n
