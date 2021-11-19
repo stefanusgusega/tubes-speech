@@ -1,49 +1,40 @@
 WARNING: no script file ../lexicon/IndoDict.txt.ded
-Missing Words
--------------
-KUTURUT
-MEMBACA
-NYALAKAN
-SENT-END
-SENT-START
-SEPOI-SEPOI
-SYARIAH
 
 Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
-IndoDict.txt     29443         92      29443         92
-        dict        92         92         92         92
+IndoDict.txt     29445        109      29445        109
+        dict       109        109        109        109
 
-99 words required, 7 missing
+109 words required, 0 missing
 
 New Phone Usage Counts
 ---------------------
-  1. aa    :    92
-  2. ch    :     1
+  1. aa    :   104
+  2. ch    :     5
   3. r     :    17
-  4. sp    :    92
-  5. d     :    11
-  6. k     :    19
-  7. uw    :    26
-  8. l     :    22
-  9. m     :    25
- 10. b     :    19
- 11. ##    :    17
- 12. ng    :    12
- 13. ih    :    40
- 14. n     :    20
- 15. y     :     1
- 16. hh    :     9
- 17. t     :    29
- 18. ao    :     8
- 19. ah    :     8
- 20. p     :    12
- 21. s     :    21
- 22. g     :     8
- 23. jh    :     4
- 24. sh    :     5
- 25. w     :     1
- 26. eh    :     1
+  4. sp    :   107
+  5. d     :    13
+  6. k     :    25
+  7. uw    :    37
+  8. l     :    23
+  9. m     :    24
+ 10. ng    :    15
+ 11. ih    :    47
+ 12. n     :    20
+ 13. t     :    33
+ 14. y     :     3
+ 15. hh    :    10
+ 16. b     :    25
+ 17. g     :    10
+ 18. ny    :     3
+ 19. aw    :     3
+ 20. ah    :    21
+ 21. ao    :     7
+ 22. p     :    14
+ 23. s     :    26
+ 24. jh    :     5
+ 25. eh    :     3
+ 26. sil   :     2
 
 Dictionary dict created

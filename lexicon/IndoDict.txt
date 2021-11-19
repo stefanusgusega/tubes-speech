@@ -2554,7 +2554,7 @@ BATUK    b aa t uw k
 BATUN    b aa t uw n
 BATUNG    b aa t uw ng
 BATUNG-BATUNG    b aa t uw ng b aa t uw ng
-BAU    b ##
+BAU    b aw
 BAUD    b ## d
 BAUK    b ## k
 BAUKSIT    b ## k s ih t
@@ -2564,7 +2564,7 @@ BAUR    b ## r
 BAUREKSA    b ## r ## k s aa
 BAUSASTRA    b ## s aa s t r aa
 BAUSUKU    b ## s uw k uw
-BAUT    b ## t
+BAUT    b aw t
 BAWA    b aa w aa
 BAWAB    b aa w aa b
 BAWAH    b aa w aa hh
@@ -3063,7 +3063,7 @@ BERANGAS    b ## r aa ng aa s
 BERANGASAN    b ## r aa ng aa s aa n
 BERANGGA    b ## r aa ng g aa
 BERANGKAL    b ## r aa ng k aa l
-BERANGKAT    b ## r aa ng k aa t
+BERANGKAT    b ah r aa ng k aa t
 BERANGSANG    b ## r aa ng s aa ng
 BERANGTA    b ## r aa ng t aa
 BERANGUS    b ## r aa ng uw s
@@ -12478,7 +12478,7 @@ KAYAU    k aa y ##
 KAYU    k aa y uw
 KAYUH    k aa y uw hh
 KAYUN    k aa y uw n
-KE    k ##
+KE    k ah
 KEBAB    k ## b aa b
 KEBABAL    k ## b aa b aa l
 KEBAH    k ## b aa hh
@@ -16028,7 +16028,7 @@ LEPAI    l ## p ##
 LEPAK    l ## p aa k
 LEPANG    l ## p aa ng
 LEPAP    l ## p aa p
-LEPAS    l ## p aa s
+LEPAS    l ah p aa s
 LEPAT    l ## p aa t
 LEPAU    l ## p ##
 LEPE    l ## p ##
@@ -23211,7 +23211,7 @@ RELIKWI    r ## l ih k w ih
 RELOKASI    r ## l ao k aa s ih
 RELUK    r ## l uw k
 RELUNG    r ## l uw ng
-REM    r ## m
+REM    r eh m
 REMA    r ## m aa
 REMAH    r ## m aa hh
 REMAI    r ## m ##
@@ -24450,7 +24450,7 @@ SATAK    s aa t aa k
 SATANG    s aa t aa ng
 SATANOLOGI    s aa t aa n ao l ao g ih
 SATAR    s aa t aa r
-SATE    s aa t ##
+SATE    s aa t eh
 SATELIT    s aa t ## l ih t
 SATIH    s aa t ih hh
 SATIN    s aa t ih n
@@ -24691,7 +24691,7 @@ SEKITAR    s ## k ih t aa r
 SEKO    s ## k ao
 SEKOCI    s ## k ao ch ih
 SEKOI    s ## k ##
-SEKOLAH    s ## k ao l aa hh
+SEKOLAH    s ah k ao l aa hh
 SEKON    s ## k ao n
 SEKONGKOL    s ## k ao ng k ao l
 SEKONYONG-KONYONG    s ## k ao ny ao ng k ao ny ao ng
@@ -25090,7 +25090,7 @@ SEMRAWUT    s ## m r aa w uw t
 SEMRINGAH    s ## m r ih ng aa hh
 SEMSEM    s ## m s ## m
 SEMU    s ## m uw
-SEMUA    s ## m uw aa
+SEMUA    s ah m uw aa
 SEMUNDING    s ## m uw n d ih ng
 SEMUNIAN    s ## m uw n ih aa n
 SEMUR    s ## m uw r
@@ -25248,6 +25248,8 @@ SENSUALISME    s ## n s uw aa l ih s m ##
 SENSUALITAS    s ## n s uw aa l ih t aa s
 SENSUR    s ## n s uw r
 SENSUS    s ## n s uw s
+SENT-END    sil 
+SENT-START    sil
 SENTA    s ## n t aa
 SENTADA    s ## n t aa d aa
 SENTADU    s ## n t aa d uw
@@ -25299,7 +25301,7 @@ SENYAMPANG    s ## ny aa m p aa ng
 SENYAP    s ## ny aa p
 SENYAR    s ## ny aa r
 SENYAWA    s ## ny aa w aa
-SENYUM    s ## ny uw m
+SENYUM    s ah ny uw m
 SENYUR    s ## ny uw r
 SEOK    s ## ao k
 SEOLAH-OLAH    s ## ao l aa hh ao l aa hh
@@ -25324,7 +25326,7 @@ SEPARBANG    s ## p aa r b aa ng
 SEPASIN    s ## p aa s ih n
 SEPAT    s ## p aa t
 SEPATBOR    s ## p aa t b ao r
-SEPATU    s ## p aa t uw
+SEPATU    s ah p aa t uw
 SEPEDA    s ## p ## d aa
 SEPEDAS    s ## p ## d aa s
 SEPEGOH    s ## p ## g ao hh
@@ -28355,7 +28357,7 @@ TERUNG    t ## r uw ng
 TERUNGKU    t ## r uw ng k uw
 TERUNTUM    t ## r uw n t uw m
 TERUP    t ## r uw p
-TERUS    t ## r uw s
+TERUS    t ah r uw s
 TERUSI    t ## r uw s ih
 TERWELU    t ## r w ## l uw
 TERZINA    t ## r z ih n aa
