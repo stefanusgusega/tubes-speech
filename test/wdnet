@@ -1,0 +1,75 @@
+VERSION=1.0
+N=29   L=44   
+I=0    W=!NULL               
+I=1    W=!NULL               
+I=2    W=SENT-START          
+I=3    W=MATIKAN             
+I=4    W=!NULL               
+I=5    W=BATALKAN            
+I=6    W=ALARM               
+I=7    W=!NULL               
+I=8    W=PASANG              
+I=9    W=ALARM               
+I=10   W=PUKUL               
+I=11   W=SATU                
+I=12   W=!NULL               
+I=13   W=DUA                 
+I=14   W=TIGA                
+I=15   W=EMPAT               
+I=16   W=LIMA                
+I=17   W=ENAM                
+I=18   W=TUJUH               
+I=19   W=DELAPAN             
+I=20   W=SEMBILAN            
+I=21   W=SEPULUH             
+I=22   W=SEBELAS             
+I=23   W=DUABELAS            
+I=24   W=PAGI                
+I=25   W=SIANG               
+I=26   W=SORE                
+I=27   W=MALAM               
+I=28   W=SENT-END            
+J=0     S=28   E=1    
+J=1     S=0    E=2    
+J=2     S=2    E=3    
+J=3     S=3    E=4    
+J=4     S=5    E=4    
+J=5     S=2    E=5    
+J=6     S=4    E=6    
+J=7     S=6    E=7    
+J=8     S=24   E=7    
+J=9     S=25   E=7    
+J=10    S=26   E=7    
+J=11    S=27   E=7    
+J=12    S=2    E=8    
+J=13    S=8    E=9    
+J=14    S=9    E=10   
+J=15    S=10   E=11   
+J=16    S=11   E=12   
+J=17    S=13   E=12   
+J=18    S=14   E=12   
+J=19    S=15   E=12   
+J=20    S=16   E=12   
+J=21    S=17   E=12   
+J=22    S=18   E=12   
+J=23    S=19   E=12   
+J=24    S=20   E=12   
+J=25    S=21   E=12   
+J=26    S=22   E=12   
+J=27    S=23   E=12   
+J=28    S=10   E=13   
+J=29    S=10   E=14   
+J=30    S=10   E=15   
+J=31    S=10   E=16   
+J=32    S=10   E=17   
+J=33    S=10   E=18   
+J=34    S=10   E=19   
+J=35    S=10   E=20   
+J=36    S=10   E=21   
+J=37    S=10   E=22   
+J=38    S=10   E=23   
+J=39    S=12   E=24   
+J=40    S=12   E=25   
+J=41    S=12   E=26   
+J=42    S=12   E=27   
+J=43    S=7    E=28   

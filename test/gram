@@ -1,0 +1,7 @@
+$lookup = MATIKAN | BATALKAN;
+$set = PASANG;
+$object = ALARM;
+$at = PUKUL;
+$number = SATU | DUA | TIGA | EMPAT | LIMA | ENAM | TUJUH | DELAPAN | SEMBILAN | SEPULUH | SEBELAS | DUABELAS;
+$time = PAGI | SIANG | SORE | MALAM;
+( SENT-START ($lookup $object | $set $object $at $number $time) SENT-END )
