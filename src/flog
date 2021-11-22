@@ -1,0 +1,50 @@
+WARNING: no script file ../lexicon/IndoDict.txt.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+IndoDict.txt     30348      30348      30348      30348
+    dict-tri     30348      30348      30348      30348
+
+30348 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. aa    : 27956
+  2. sp    : 30346
+  3. b     :  5070
+  4. d     :  5078
+  5. ih    : 18363
+  6. hh    :  3268
+  7. @@    : 18652
+  8. m     :  8568
+  9. n     : 10334
+ 10. k     : 11682
+ 11. t     : 11959
+ 12. l     : 10203
+ 13. uw    :  9554
+ 14. s     : 12846
+ 15. ng    :  4675
+ 16. g     :  4137
+ 17. r     : 13427
+ 18. ao    : 10860
+ 19. ch    :  1883
+ 20. f     :  2713
+ 21. jh    :  1721
+ 22. p     :  6537
+ 23. y     :   673
+ 24. w     :  1190
+ 25. ny    :   289
+ 26. z     :   334
+ 27. sh    :   131
+ 28. ah    :    22
+ 29. ay    :     1
+ 30. aw    :     3
+ 31. TAB-SPAN" :     1
+ 32. TAB-SPAN"-STYLE="WHITE-SPACE: :     1
+ 33. SPACE:-PRE;"> :     1
+ 34. </SPAN>"V," :     1
+ 35. eh    :     3
+ 36. sil   :     2
+
+Dictionary dict-tri created
