@@ -25248,8 +25248,8 @@ SENSUALISME    s ## n s uw aa l ih s m ##
 SENSUALITAS    s ## n s uw aa l ih t aa s
 SENSUR    s ## n s uw r
 SENSUS    s ## n s uw s
-SENT-END    sil 
-SENT-START    sil
+SENT-END	[]	sil 
+SENT-START	[]	sil
 SENTA    s ## n t aa
 SENTADA    s ## n t aa d aa
 SENTADU    s ## n t aa d uw
