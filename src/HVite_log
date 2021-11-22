@@ -1,0 +1,220 @@
+HVite -A -D -T 1 -l * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I words.mlf -S train.scp dict monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 26 physical / 26 logical HMMs
+Label file will be used to align each file
+Aligning File: ../train/mfcc/sample1.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PASANG ALARM PUKUL SATU PAGI DUA SIANG SEMBILAN MALAM SENT-END  ==  [915 frames] -58.8482 [Ac=-53846.1 LM=0.0] (Act=10.4)
+Aligning File: ../train/mfcc/sample2.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END MATIKAN ALARM PASANG PUKUL TIGA SIANG SEBELAS MALAM SENT-END  ==  [992 frames] -56.8896 [Ac=-56434.4 LM=0.0] (Act=9.6)
+Aligning File: ../train/mfcc/sample3.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BATALKAN ALARM MATIKAN ALARM PASANG ALARM PUKUL EMPAT MALAM SENT-END  ==  [1163 frames] -55.9154 [Ac=-65029.6 LM=0.0] (Act=11.6)
+Aligning File: ../train/mfcc/sample4.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PASANG ALARM DUA PAGI EMPAT SORE TUJUH MALAM SENT-END  ==  [941 frames] -54.2049 [Ac=-51006.8 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample5.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END AKU PASANG ALARM PUKUL SEPULUH PAGI DAN ENAM SORE SENT-END  ==  [975 frames] -56.3831 [Ac=-54973.6 LM=0.0] (Act=8.7)
+Aligning File: ../train/mfcc/sample6.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PAGI TIDUR SIANG MAKAN SORE KERJA MALAM BANGUN SENT-END  ==  [992 frames] -56.3236 [Ac=-55873.1 LM=0.0] (Act=9.1)
+Aligning File: ../train/mfcc/sample7.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BATALKAN PUKUL SEPULUH MALAM PASANG JAM LIMA PAGI SENT-END  ==  [906 frames] -57.6373 [Ac=-52219.4 LM=0.0] (Act=11.7)
+Aligning File: ../train/mfcc/sample8.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END TULIS EMPAT ENAM DUABELAS SEBELAS KERJA SORE BATALKAN SENT-END  ==  [1009 frames] -56.0613 [Ac=-56565.9 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample9.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END MALAS BANGUN MAKAN KERJA DUABELAS SEPULUH DELAPAN LIMA SENT-END  ==  [1052 frames] -55.9470 [Ac=-58856.2 LM=0.0] (Act=8.8)
+Aligning File: ../train/mfcc/sample10.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END MATIKAN ALARM AKU DAN TIGA ENAM LIMA TUJUH SENT-END  ==  [983 frames] -55.1057 [Ac=-54168.9 LM=0.0] (Act=11.8)
+Aligning File: ../train/mfcc/sample11.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BANGUN TIDUR AKU MATIKAN ALARM PASANG PUKUL SEBELAS PAGI SENT-END  ==  [1188 frames] -54.4390 [Ac=-64673.5 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample12.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END MAKAN PUKUL SATU PAGI DUA SIANG EMPAT SORE TUJUH MALAM SENT-END  ==  [1171 frames] -54.9937 [Ac=-64397.6 LM=0.0] (Act=9.9)
+Aligning File: ../train/mfcc/sample13.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END SENIN PASANG ALARM JAM DUA SIANG BATALKAN PUKUL TIGA SENT-END  ==  [1000 frames] -54.6088 [Ac=-54608.8 LM=0.0] (Act=9.2)
+Aligning File: ../train/mfcc/sample14.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BATALKAN PAGI MATIKAN SIANG PASANG SEPULUH ALARM MALAM SENT-END  ==  [890 frames] -57.4129 [Ac=-51097.5 LM=0.0] (Act=10.6)
+Aligning File: ../train/mfcc/sample15.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END MALAS BANGUN MATIKAN ALARM PUKUL LIMA AKU TIDUR SENT-END  ==  [941 frames] -56.4840 [Ac=-53151.4 LM=0.0] (Act=11.3)
+Aligning File: ../train/mfcc/sample16.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PASANG ALARM MATA SEMBILAN PAGI TUJUH MALAM SIANG SORE SENT-END  ==  [609 frames] -59.8486 [Ac=-36447.8 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample17.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END MATIKAN SEMBILAN RIBU PAGI SORE MALAM TUJUH DELAPAN SENT-END  ==  [558 frames] -59.8367 [Ac=-33388.9 LM=0.0] (Act=9.9)
+Aligning File: ../train/mfcc/sample18.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END SEMBILAN SIANG TUJUH PAGI SORE ENAM BATALKAN SIKAT SENT-END  ==  [560 frames] -57.8183 [Ac=-32378.3 LM=0.0] (Act=8.6)
+Aligning File: ../train/mfcc/sample19.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BATALKAN SATU DUA TIGA EMPAT LIMA MATI TUJUH SENT-END  ==  [621 frames] -60.2362 [Ac=-37406.7 LM=0.0] (Act=10.9)
+Aligning File: ../train/mfcc/sample20.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PUKUL ALARM DUA KAKI AKU TIGA SIANG SEMBILAN SENT-END  ==  [630 frames] -58.5853 [Ac=-36908.8 LM=0.0] (Act=10.9)
+Aligning File: ../train/mfcc/sample21.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PASANG GIGI DUA MALAM TUJUH SORE SIANG EMPAT SENT-END  ==  [551 frames] -59.0942 [Ac=-32560.9 LM=0.0] (Act=9.3)
+Aligning File: ../train/mfcc/sample22.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BUANG PASANG BATALKAN MATIKAN DUA TIGA SORE SIANG SENT-END  ==  [725 frames] -57.7600 [Ac=-41876.0 LM=0.0] (Act=8.9)
+Aligning File: ../train/mfcc/sample23.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PASANG ALARM PUKUL LIMA PAGI TAPI SEBELAS SIANG SENT-END  ==  [604 frames] -58.6507 [Ac=-35425.0 LM=0.0] (Act=9.3)
+Aligning File: ../train/mfcc/sample24.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END TADI PAGI PUKUL LIMA PASANG ALARM DUA SIANG SENT-END  ==  [521 frames] -59.3920 [Ac=-30943.2 LM=0.0] (Act=9.8)
+Aligning File: ../train/mfcc/sample25.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END TIBA SORE PUKUL DUABELAS SIANG SEPULUH TUJUH ENAM SENT-END  ==  [580 frames] -59.8782 [Ac=-34729.3 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample26.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PASANG ALARM PUKUL LIMA BANGUN SEBELAS SIANG DUA SENT-END  ==  [528 frames] -59.3791 [Ac=-31352.2 LM=0.0] (Act=9.9)
+Aligning File: ../train/mfcc/sample27.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BATU ALARM HABIS BELI PUKUL TUJUH MALAM PASANG SENT-END  ==  [448 frames] -61.8757 [Ac=-27720.3 LM=0.0] (Act=11.4)
+Aligning File: ../train/mfcc/sample28.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END NOTA SAPI ALARM DUA PAGI TUJUH LIMA NASI KAMBING SENT-END  ==  [735 frames] -59.7381 [Ac=-43907.5 LM=0.0] (Act=8.8)
+Aligning File: ../train/mfcc/sample29.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PASANG ALARM SATU DUA SEMBILAN MALAM TUJUH DUABELAS ENAM SENT-END  ==  [699 frames] -59.9481 [Ac=-41903.7 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample30.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END LALU AKU TIDUR BANGUN PUKUL LIMA PAGI LAGI SENT-END  ==  [703 frames] -58.2164 [Ac=-40926.1 LM=0.0] (Act=11.0)
+Aligning File: ../train/mfcc/sample31.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END DUABELAS INGIN MATIKAN ALARM JAM DELAPAN DAN PERGI MAKAN SENT-END  ==  [740 frames] -65.2358 [Ac=-48274.5 LM=0.0] (Act=9.2)
+Aligning File: ../train/mfcc/sample32.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PASANG LAGI JAM MAU MANDI BOLA SEKARANG ALARM SEBELAS SENT-END  ==  [773 frames] -62.2598 [Ac=-48126.8 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample33.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PADA HARI MINGGU AKU IKUT AYAH KE KOTA SEPULUH SENT-END  ==  [684 frames] -63.7000 [Ac=-43570.8 LM=0.0] (Act=10.7)
+Aligning File: ../train/mfcc/sample34.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PASANG ALARM PUKUL TIGA EMPAT LIMA JAM BUAH SENT-END  ==  [653 frames] -62.6735 [Ac=-40925.8 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample35.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PUKUL SEMBILAN PASANG ALARM REM MOBIL JAM TIGA SENT-END  ==  [623 frames] -66.3741 [Ac=-41351.1 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample36.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END AKU PERGI MAKAN PUKUL TIGA SORE BATALKAN ALARM SENT-END  ==  [649 frames] -64.4465 [Ac=-41825.8 LM=0.0] (Act=9.3)
+Aligning File: ../train/mfcc/sample37.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BERANGKAT PADA PUKUL TUJUH PAGI DAN TUJUH MALAM SENT-END  ==  [630 frames] -62.1453 [Ac=-39151.5 LM=0.0] (Act=8.6)
+Aligning File: ../train/mfcc/sample38.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ATUR UNTUK PASANG ALARM PUKUL LIMA PAGI NANTI SENT-END  ==  [636 frames] -63.7804 [Ac=-40564.3 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample39.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PAGI SIANG SORE MALAM BACA BUKU PASANG ALARM SENT-END  ==  [610 frames] -62.8872 [Ac=-38361.2 LM=0.0] (Act=7.9)
+Aligning File: ../train/mfcc/sample40.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BATALKAN ALARM PASANG ALARM PUKUL SEPULUH PAGI INI SENT-END  ==  [673 frames] -63.2140 [Ac=-42543.0 LM=0.0] (Act=8.7)
+Aligning File: ../train/mfcc/sample41.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END TAKUT TIDAK BANGUN PASANG ALARM PUKUL TIGA PAGI SENT-END  ==  [590 frames] -63.1613 [Ac=-37265.2 LM=0.0] (Act=9.0)
+Aligning File: ../train/mfcc/sample42.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END NANTI ADA RAPAT JADI PASANG ALARM PUKUL EMPAT SENT-END  ==  [700 frames] -61.9308 [Ac=-43351.5 LM=0.0] (Act=11.2)
+Aligning File: ../train/mfcc/sample43.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END TANGGAL DUABELAS TADI BILANG MATIKAN ALARM ITU HARUS SENT-END  ==  [722 frames] -64.6950 [Ac=-46709.8 LM=0.0] (Act=9.3)
+Aligning File: ../train/mfcc/sample44.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ADA ANGIN DINGIN AKU BATALKAN ALARM PUKUL LIMA PAGI SENT-END  ==  [732 frames] -61.5851 [Ac=-45080.3 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample45.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BATALKAN ALARM PUKUL SEPULUH SIANG UNTUK ACARA SEKOLAH SENT-END  ==  [682 frames] -63.2431 [Ac=-43131.8 LM=0.0] (Act=9.0)
+Aligning File: ../train/mfcc/sample46.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END COBA PASANG DELAPAN SEMBILAN SEPULUH SEBELAS DUABELAS AYAM SENT-END  ==  [903 frames] -60.5447 [Ac=-54671.9 LM=0.0] (Act=7.0)
+Aligning File: ../train/mfcc/sample47.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END PUKUL ALARM DELAPAN TIGA DUA MATIKAN TERUS DIAM SENT-END  ==  [848 frames] -61.5373 [Ac=-52183.7 LM=0.0] (Act=8.2)
+Aligning File: ../train/mfcc/sample48.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BATALKAN ALARM SEBELAS SEBELAS TERUS BANYAK DELAPAN KALI SENT-END  ==  [945 frames] -58.5431 [Ac=-55323.2 LM=0.0] (Act=7.9)
+Aligning File: ../train/mfcc/sample49.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ALARM PASANG BATALKAN PUKUL MATIKAN SATU SATU SEMUA SENT-END  ==  [821 frames] -61.4729 [Ac=-50469.2 LM=0.0] (Act=7.9)
+Aligning File: ../train/mfcc/sample50.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END DELAPAN KALI COBA PUKUL BATALKAN ALARM PUKUL SATU MALAM SENT-END  ==  [984 frames] -59.8866 [Ac=-58928.4 LM=0.0] (Act=8.0)
+Aligning File: ../train/mfcc/sample51.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END DELAPAN LAGI SUPAYA SENYUM COBA SATU JUGA SATU SENT-END  ==  [946 frames] -59.9269 [Ac=-56690.8 LM=0.0] (Act=7.6)
+Aligning File: ../train/mfcc/sample52.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ENAM KURANG ENAM KAMBING MATIKAN AYAM DUABELAS KALI SENT-END  ==  [873 frames] -60.6274 [Ac=-52927.7 LM=0.0] (Act=8.1)
+Aligning File: ../train/mfcc/sample53.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END BATALKAN PASANG MATIKAN ENAM DELAPAN SEMBILAN SEPULUH SEBELAS SENT-END  ==  [903 frames] -60.7525 [Ac=-54859.5 LM=0.0] (Act=7.1)
+Aligning File: ../train/mfcc/sample54.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END DUABELAS MALAM LEPAS SEPATU SORE SIANG MATIKAN SATU SENT-END  ==  [903 frames] -61.1601 [Ac=-55227.6 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/sample55.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END SATU TAMBAH SATU BAGI ENAM SORE SIANG MATIKAN SENT-END  ==  [872 frames] -60.5043 [Ac=-52759.7 LM=0.0] (Act=7.1)
+Aligning File: ../train/mfcc/sample56.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END EMPAT ENAM DELAPAN SEMBILAN SEPULUH SEBELAS DUABELAS TIGA SENT-END  ==  [891 frames] -61.5510 [Ac=-54842.0 LM=0.0] (Act=7.9)
+Aligning File: ../train/mfcc/sample57.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END CARI KUCING SATU TIGA EMPAT ENAM DELAPAN SEMBILAN SENT-END  ==  [905 frames] -59.8870 [Ac=-54197.8 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample58.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END SEPULUH SEBELAS DUABELAS SORE MALAM BATALKAN EMPAT ENAM SENT-END  ==  [968 frames] -59.5101 [Ac=-57605.8 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/sample59.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END DELAPAN SEMBILAN SEPULUH SEBELAS DUABELAS SATU TIGA EMPAT SENT-END  ==  [932 frames] -59.0154 [Ac=-55002.3 LM=0.0] (Act=7.5)
+Aligning File: ../train/mfcc/sample60.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END SENYUM KUNYAH BAU BAUT SATE SATU DUA TIGA SENT-END  ==  [667 frames] -57.1854 [Ac=-38142.7 LM=0.0] (Act=8.4)
+Aligning File: ../train/mfcc/sample61.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END TUJUH KUCING SEPULUH AYAM BATALKAN ALARM MATIKAN PASANG SENT-END  ==  [755 frames] -60.0105 [Ac=-45307.9 LM=0.0] (Act=7.9)
+Aligning File: ../train/mfcc/sample62.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PASANG ENAM ALARM PUKUL DELAPAN SORE SIKAT MATA KAKI SENT-END  ==  [786 frames] -60.8205 [Ac=-47804.9 LM=0.0] (Act=11.0)
+Aligning File: ../train/mfcc/sample63.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MATIKAN ENAM ALARM BATALKAN PUKUL SEMBILAN SIANG MALAM KALI SENT-END  ==  [773 frames] -61.5138 [Ac=-47550.2 LM=0.0] (Act=10.4)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+
