@@ -1,0 +1,7 @@
+./wav/test1.wav ./mfcc/test1.mfc
+./wav/test2.wav ./mfcc/test2.mfc
+./wav/test3.wav ./mfcc/test3.mfc
+./wav/test4.wav ./mfcc/test4.mfc
+./wav/test5.wav ./mfcc/test5.mfc
+./wav/test6.wav ./mfcc/test6.mfc
+./wav/test7.wav ./mfcc/test7.mfc
