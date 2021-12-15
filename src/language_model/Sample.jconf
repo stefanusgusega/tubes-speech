@@ -4,7 +4,7 @@
 -v sample.dict      # pronunciation dictionary
 -h ../hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)
 -hlist ../tiedlist     # HMMList to map logical phone to physical
--smpFreq 16000	    # sampling rate (Hz)
+-smpFreq 48000	    # sampling rate (Hz)
 -spmodel "sp"		    # name of a short-pause silence model
 -multipath          # force enable MULTI-PATH model handling
 -gprune safe        # Gaussian pruning method

@@ -1,8 +1,9 @@
 # VoxForge configurations:
--dfa sample.dfa     # finite state automaton grammar file
--v sample.dict      # pronunciation dictionary
--h hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)
--hlist tiedlist     # HMMList to map logical phone to physical
+-d ../src/language_model/lm_indonesia/tg1_1_binary    # finite state automaton grammar file
+-nlr ../src/language_model/lm_indonesia/tg1_1 # arpa 
+-v ../src/language_model/sample.dict      # pronunciation dictionary
+-h ../src/hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)
+-hlist ../src/tiedlist     # HMMList to map logical phone to physical
 -smpFreq 48000	    # sampling rate (Hz)
 -spmodel "sp"		    # name of a short-pause silence model
 -multipath          # force enable MULTI-PATH model handling
